@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="DataReverseTests.cs" />
     <Compile Include="Encryption1Tests.cs" />
+    <Compile Include="OddManOutTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

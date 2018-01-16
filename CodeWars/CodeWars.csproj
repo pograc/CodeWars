@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="DataReverseChallenge.cs" />
     <Compile Include="Encryption1Challenge.cs" />
+    <Compile Include="OddManOutChallenge.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
