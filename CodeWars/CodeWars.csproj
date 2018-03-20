@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BuildTower.cs" />
     <Compile Include="DataReverseChallenge.cs" />
     <Compile Include="Encryption1Challenge.cs" />
     <Compile Include="OddManOutChallenge.cs" />
